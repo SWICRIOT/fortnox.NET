@@ -37,4 +37,4 @@ steps:
   inputs:
     command: 'push'
     packagesToPush: '**/*.nupkg'
-    publishVstsFeed: 'HBKFortnox.Net'
+    publishVstsFeed: 'HBKFortnox.WS'
